@@ -1,2 +1,2 @@
 # ardu_projektas
-small arduino project use ultrasonic sensor 
+Small arduino project use ultrasonic sensor to measure and count and display result on TM1637Display
